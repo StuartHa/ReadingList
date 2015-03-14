@@ -22,6 +22,8 @@ by Frederick P. Brooks Jr.
 The Art of Agile Development
 by James Shore, Shane Warden
 
+Programming Pearls (2nd Edition) by Jon Bentley
+
 xUnit Test Patterns: Refactoring Test Code
 by Gerard Meszaros
 
@@ -38,6 +40,8 @@ by Robert I. Sutton
 
 The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin Series)
 by Robert C. Martin
+
+Refactoring to Patterns by Joshua Kerievsky
 
 Computer Networks (5th Edition) by Andrew S. Tanenbaum and David J. Wetherall
 
