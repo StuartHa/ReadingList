@@ -4,8 +4,8 @@ Reading List
 Currently reading
 ---
 
-Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman Oct 25, 2009
-by Dave Hoover and Adewale Oshineye
+xUnit Test Patterns: Refactoring Test Code
+by Gerard Meszaros
 
 Digital Design and Computer Architecture, Second Edition Aug 7, 2012
 by David Harris and Sarah Harris
@@ -19,13 +19,13 @@ Future reading
 The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
 by Frederick P. Brooks Jr.
 
+Computer Networks (5th Edition)Oct 7, 2010
+by Andrew S. Tanenbaum and David J. Wetherall
+
 The Art of Agile Development
 by James Shore, Shane Warden
 
 Programming Pearls (2nd Edition) by Jon Bentley
-
-xUnit Test Patterns: Refactoring Test Code
-by Gerard Meszaros
 
 Programming Language Pragmatics, Third Edition by Michael L. Scott
 
@@ -56,3 +56,8 @@ by Jez Humble, David Farley
 
 Dinosaur Brains: Dealing with All THOSE Impossible People at Work
 by Albert J. Bernstein
+
+Past Reading
+---
+**3/15** Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman Oct 25, 2009
+by Dave Hoover and Adewale Oshineye
