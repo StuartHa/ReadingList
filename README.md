@@ -4,8 +4,8 @@ Reading List
 Currently reading
 ---
 
-xUnit Test Patterns: Refactoring Test Code
-by Gerard Meszaros
+Computer Networks (5th Edition) Oct 7, 2010
+by Andrew S. Tanenbaum and David J. Wetherall
 
 Digital Design and Computer Architecture, Second Edition Aug 7, 2012
 by David Harris and Sarah Harris
@@ -16,6 +16,9 @@ by Andrew Hunt and David Thomas
 Future reading
 ---
 
+xUnit Test Patterns: Refactoring Test Code
+by Gerard Meszaros
+
 How Brands Grow: What Marketers Don't Know Apr 12, 2010
 by Byron Sharp
 
@@ -24,9 +27,6 @@ by A.G. Lafley and Roger L. Martin
 
 The Mythical Man-Month: Essays on Software Engineering, Anniversary Edition (2nd Edition)
 by Frederick P. Brooks Jr.
-
-Computer Networks (5th Edition)Oct 7, 2010
-by Andrew S. Tanenbaum and David J. Wetherall
 
 The Art of Agile Development
 by James Shore, Shane Warden
